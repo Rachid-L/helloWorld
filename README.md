@@ -1,2 +1,2 @@
 # helloWorld
-My firsl repository
+My first repository
